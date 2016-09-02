@@ -1,4 +1,3 @@
-# your_user_name.github.io
-blog use
+个人Blog
 
 基于hexo进行开发。
